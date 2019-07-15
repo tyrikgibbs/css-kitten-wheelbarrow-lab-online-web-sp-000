@@ -1,6 +1,6 @@
 /* Select the image with a class of kitty-1 */
 
-/*__write_selector_here__*/ div wrapper{
+/*__write_selector_here__*/ div wrapper {
   position: absolute;
   z-index: 1;
   top: 276px;
